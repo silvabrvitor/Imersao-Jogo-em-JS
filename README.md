@@ -4,4 +4,4 @@ Nessa fase o primeiro cenário está pronto e estou começando a inserir o perso
 
 
 
-<iframe src="https://editor.p5js.org/brs.vitor/embed/cuVd9N_MO"></iframe>
+https://editor.p5js.org/brs.vitor/full/cuVd9N_MO
